@@ -1,0 +1,15 @@
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpInterfacesCasting\obj\Debug\net6.0\CSharpInterfacesCasting.csproj.AssemblyReference.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpInterfacesCasting\obj\Debug\net6.0\CSharpInterfacesCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpInterfacesCasting\obj\Debug\net6.0\CSharpInterfacesCasting.AssemblyInfoInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpInterfacesCasting\obj\Debug\net6.0\CSharpInterfacesCasting.AssemblyInfo.cs
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpInterfacesCasting\obj\Debug\net6.0\CSharpInterfacesCasting.csproj.CoreCompileInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpInterfacesCasting\bin\Debug\net6.0\CSharpInterfacesCasting.exe
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpInterfacesCasting\bin\Debug\net6.0\CSharpInterfacesCasting.deps.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpInterfacesCasting\bin\Debug\net6.0\CSharpInterfacesCasting.runtimeconfig.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpInterfacesCasting\bin\Debug\net6.0\CSharpInterfacesCasting.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpInterfacesCasting\bin\Debug\net6.0\CSharpInterfacesCasting.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpInterfacesCasting\obj\Debug\net6.0\CSharpInterfacesCasting.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpInterfacesCasting\obj\Debug\net6.0\refint\CSharpInterfacesCasting.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpInterfacesCasting\obj\Debug\net6.0\CSharpInterfacesCasting.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpInterfacesCasting\obj\Debug\net6.0\CSharpInterfacesCasting.genruntimeconfig.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpInterfacesCasting\obj\Debug\net6.0\ref\CSharpInterfacesCasting.dll
